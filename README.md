@@ -1,3 +1,3 @@
 # Instagram Clone With Bootstrap
-![Instagram]([https://e7.pngegg.com/pngimages/284/477/png-clipart-computer-icons-graphy-instagram-logo-instagram-logo-miscellaneous-text-thumbnail.png](https://cdn-icons-png.flaticon.com/512/174/174855.png))
+![Instagram](https://i.pinimg.com/originals/67/03/1e/67031e426eeaa9a5676b13ee4ef7abfe.jpg)
 Simple HTML Instagram clone made with Bootstrap.
